@@ -1,6 +1,6 @@
 # Magento 2 Mobile Login
 
-In today's competitive E-commerce world, security and customer convenience goes hand in hand. If you focus equally on both these aspects, you are on the right track. For Magento 2 stores, to help store owners offer secure and easy sign up and login, Meetanshi has developed [**Magento 2 Mobile Login***](https://meetanshi.com/magento-2-mobile-login.html) with OTP extension!
+In today's competitive E-commerce world, security and customer convenience goes hand in hand. If you focus equally on both these aspects, you are on the right track. For Magento 2 stores, to help store owners offer secure and easy sign up and login, Meetanshi has developed [***Magento 2 Mobile Login***](https://meetanshi.com/magento-2-mobile-login.html) with OTP extension!
 
 The Magento 2 OTP Login using Mobile Number helps store owners to facilitate customers an easy and secure login after mobile number verification via OTP.
 
